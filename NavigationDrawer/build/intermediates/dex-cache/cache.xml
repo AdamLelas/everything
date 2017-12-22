@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\06dd9970077d4c4ee416ea256936b81666b0117a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c87270a9d828773c296fadde93e939c8190a6b1b">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_47dfe6314d475986eae943b82fe45dcd9a1ed50e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\40be50ea019a275b054d7ece607411c3d0d6f1ae\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_64b4c1d3177ec15ac1389ce9634719de4aa97e83\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\a54e5ed52951cc51afe3c9f1e03f0e2c1fdc1ba3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_03f0e7b5cbc2fd937e2a13e116534475a4c94adb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\06dd9970077d4c4ee416ea256936b81666b0117a\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="61fd2644ca586288d0e733377d12b5f6da18c4ca">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_57bed0bc47be6d90f0a2d9efc5f11f90dfa29b6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b779be5f201767b615e3d9c409c28680596fe0ef\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\707814557f37240661fcae78167374c440f3758c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3219ebb69e685ccd51b8e3e3c2a63fe23fcd37ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\4bba9bc2c522a0d830d1979c2b9a237cb9889515\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_065c22764ba526eb15b678e40e50d816233333e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\d6c4fa802421047decf99acd9aa3e463484f016b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eeba7eb71a273365bf936e654cc19379a812af13\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\b0111db0ea90746b3c317a9fc5a49c57ef089e73\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e178f263379e20aaa1325dde20411092ca580655\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\.android\build-cache\b0111db0ea90746b3c317a9fc5a49c57ef089e73\output\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_310053e13279a870e95e5141f5f47db81ed5f5f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f24f3127ac0b1b3182a652bf8c30eb2418ca8f6e">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9f4aa9c258f09a4b9660e960a3fbfc716bfee9d0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Adam\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\24.0.0\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="C:\Users\Adam\AndroidStudioProjects\NavigationDrawer\Application\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_a8ec309bba222617b67517a7a4748ed2110fa80b\classes.dex" />
+    </item>
+
+</items>

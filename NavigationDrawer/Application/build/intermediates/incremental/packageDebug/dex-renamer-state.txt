@@ -1,0 +1,7 @@
+#Thu Nov 09 17:14:17 GMT 2017
+base.0=C\:\\Users\\Adam\\AndroidStudioProjects\\NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b779be5f201767b615e3d9c409c28680596fe0ef
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\Adam\\AndroidStudioProjects\\NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9f4aa9c258f09a4b9660e960a3fbfc716bfee9d0\\classes.dex
+base.1=C\:\\Users\\Adam\\AndroidStudioProjects\\NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9f4aa9c258f09a4b9660e960a3fbfc716bfee9d0
+file.0=C\:\\Users\\Adam\\AndroidStudioProjects\\NavigationDrawer\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b779be5f201767b615e3d9c409c28680596fe0ef\\classes.dex
